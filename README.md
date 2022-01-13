@@ -10,3 +10,6 @@
 
 - ### Exploration 03
   - ##### [스티커앱 만들기](https://github.com/Duodum/Exploration/blob/master/Exp03_Camera_Sticker/Exp03_Camera_Sticker.ipynb)
+
+- ### Exploration 04
+  - ##### [인공지능 작사가](https://github.com/Duodum/Exploration/blob/master/Exp04_Lyricist/Exp04_Lyricist.ipynb)
