@@ -13,3 +13,7 @@
 
 - ### Exploration 04
   - ##### [인공지능 작사가](https://github.com/Duodum/Exploration/blob/master/Exp04_Lyricist/Exp04_Lyricist.ipynb)
+
+- ### Exploration 05
+  - ##### [집값 예측](https://github.com/Duodum/Exploration/blob/master/Exp05_Kaggle_Kakr_Housing/Exp05_Kaggle_Kakr_Housing.ipynb)
+
