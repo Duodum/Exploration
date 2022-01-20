@@ -17,3 +17,6 @@
 - ### Exploration 05
   - ##### [집값 예측](https://github.com/Duodum/Exploration/blob/master/Exp05_Kaggle_Kakr_Housing/Exp05_Kaggle_Kakr_Housing.ipynb)
 
+- ### Exploration 06
+  - ##### [영화리뷰 감성분석](https://github.com/Duodum/Exploration/blob/master/Exp06_Movie_Review/Exp06_Movie_Review.ipynb)
+
