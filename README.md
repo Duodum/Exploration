@@ -20,3 +20,5 @@
 - ### Exploration 06
   - ##### [영화리뷰 감성분석](https://github.com/Duodum/Exploration/blob/master/Exp06_Movie_Review/Exp06_Movie_Review.ipynb)
 
+- ### Exploration 07
+  - ##### [인물사진 모드 만들기](https://github.com/Duodum/Exploration/blob/master/Exp07_Semantic_Segmentation/Exp07_Semantic_Segmentation.ipynb)
