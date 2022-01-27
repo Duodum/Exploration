@@ -22,3 +22,6 @@
 
 - ### Exploration 07
   - ##### [인물사진 모드 만들기](https://github.com/Duodum/Exploration/blob/master/Exp07_Semantic_Segmentation/Exp07_Semantic_Segmentation.ipynb)
+
+- ### Exploration 08
+  - ##### [뉴스 요약봇 만들기](https://github.com/Duodum/Exploration/blob/master/Exp08_News_Summarization/Exp08_News_Summarization.ipynb)
