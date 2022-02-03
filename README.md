@@ -25,3 +25,6 @@
 
 - ### Exploration 08
   - ##### [뉴스 요약봇 만들기](https://github.com/Duodum/Exploration/blob/master/Exp08_News_Summarization/Exp08_News_Summarization.ipynb)
+
+- ### Exploration 09
+  - ##### [폐렴 진단기](https://github.com/Duodum/Exploration/blob/master/Exp09_Pneumonia_Diagnosis/Exp09_Pneumonia_Diagnosis.ipynb)
