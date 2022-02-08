@@ -28,3 +28,6 @@
 
 - ### Exploration 09
   - ##### [폐렴 진단기](https://github.com/Duodum/Exploration/blob/master/Exp09_Pneumonia_Diagnosis/Exp09_Pneumonia_Diagnosis.ipynb)
+
+- ### Exploration 10
+  - ##### [CIFAR-10 이미지 생성](https://github.com/Duodum/Exploration/blob/master/Exp10_Image_Generation/Exp10_Image_Generation.ipynb)
