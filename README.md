@@ -31,3 +31,6 @@
 
 - ### Exploration 10
   - ##### [CIFAR-10 이미지 생성](https://github.com/Duodum/Exploration/blob/master/Exp10_Image_Generation/Exp10_Image_Generation.ipynb)
+
+- ### Exploration 11
+  - ##### [주식 예측](https://github.com/Duodum/Exploration/blob/master/Exp11_Stock_Prediction/Exp11_Stock_Prediction.ipynb)
