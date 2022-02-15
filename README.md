@@ -34,3 +34,6 @@
 
 - ### Exploration 11
   - ##### [주식 예측](https://github.com/Duodum/Exploration/blob/master/Exp11_Stock_Prediction/Exp11_Stock_Prediction.ipynb)
+
+- ### Exploration 12
+  - ##### [한국어 챗봇](https://github.com/Duodum/Exploration/blob/master/Exp12_Transfomer_Chatbot/Exp12_Transfomer_Chatbot.ipynb)
