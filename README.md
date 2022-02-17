@@ -37,3 +37,6 @@
 
 - ### Exploration 12
   - ##### [한국어 챗봇](https://github.com/Duodum/Exploration/blob/master/Exp12_Transfomer_Chatbot/Exp12_Transfomer_Chatbot.ipynb)
+
+- ### Exploration 13
+  - ##### [퀴즈 인공지능](https://github.com/Duodum/Exploration/blob/master/Exp13_KorQuAD_QnA/Exp13_KorQuAD_QnA.ipynb)
