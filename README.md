@@ -40,3 +40,6 @@
 
 - ### Exploration 13
   - ##### [퀴즈 인공지능](https://github.com/Duodum/Exploration/blob/master/Exp13_KorQuAD_QnA/Exp13_KorQuAD_QnA.ipynb)
+
+- ### Exploration 14
+  - ##### [영화 추천](https://github.com/Duodum/Exploration/blob/master/Exp14_MovieLens/Exp14_MovieLens.ipynb)
