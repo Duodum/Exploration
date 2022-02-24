@@ -43,3 +43,6 @@
 
 - ### Exploration 14
   - ##### [영화 추천](https://github.com/Duodum/Exploration/blob/master/Exp14_MovieLens/Exp14_MovieLens.ipynb)
+
+- ### Exploration 15
+  - ##### [OCR 모델 비교](https://github.com/Duodum/Exploration/blob/master/Exp15_OCR/Exp15_OCR.ipynb)
