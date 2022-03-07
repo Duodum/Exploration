@@ -46,3 +46,6 @@
 
 - ### Exploration 15
   - ##### [OCR 모델 비교](https://github.com/Duodum/Exploration/blob/master/Exp15_OCR/Exp15_OCR.ipynb)
+
+- ### Exploration 16
+  - ##### [세션 기반 영화 추천](https://github.com/Duodum/Exploration/blob/master/Exp16_MovieLens_SBR/Exp16_MovieLens_SBR.ipynb)
